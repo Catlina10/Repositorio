@@ -40,9 +40,5 @@ resultado alert (numero1 + numero2)
 <input autocomplete="off" id="main-search" type="search" name="q" placeholder=" Buscar " class="form-control search search-bar" aria-label="Enter Celebrity or Date" maxlength="80">
 <button type="submit" class="btn btn-search" aria-label="Search" title="Search"><em class="icn icn-search"></em></button>
 </form>
-        <h1>Harry Styles</h1>
-       <h3>CANTANTE POP</h3>
-       <img src="styles-harry-image.jpg"width="200" height="200">
-
     </div>
 </body>
